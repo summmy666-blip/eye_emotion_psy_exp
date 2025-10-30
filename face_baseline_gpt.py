@@ -205,7 +205,7 @@ class EmotionAnalyzer:
 
 
 def main():
-    api_key = "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"
+    api_key = " "
     analyzer = EmotionAnalyzer(api_key)
 
     # 修改文件夹路径
